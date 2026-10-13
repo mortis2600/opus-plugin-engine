@@ -1,0 +1,1 @@
+[{"category":"system","description":"Built-in plugin manager: list and toggle plugins per server.","id":"core","name":"Core","version":"1.0.0"},{"category":"examples","description":"Example plugin: says hello three different ways.","id":"hello-world","name":"Hello World","version":"1.0.0"}]
